@@ -13,8 +13,8 @@ ______  ___ _____ ___ ______  ___  _____ _____
 
 const Sequelize = require('sequelize');
 
-const sequelize = new Sequelize(process.env.MYSQL_DB, process.env.MYSQL_USER, process.env.MYSQL_PASSWORD, {
-    host: process.env.MYSQL_HOST,
+const sequelize = new Sequelize(process.env.xtremese_1v1.localhost, process.env.xtremese_1v1, process.env.Aydenmac321!, {
+    host: process.env.145.239.7.23,
     dialect: 'mysql',
 
     pool: {
