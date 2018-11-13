@@ -1,0 +1,9 @@
+{
+    "discordBot": {
+        "enabled": true,
+        "prefix": "!",
+        "owner": "490474836573945857",
+        "minimumKillsBeforeStatsCalc": "20",
+        "stats_showMedals": false
+    }
+}
